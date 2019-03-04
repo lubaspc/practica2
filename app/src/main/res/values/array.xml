@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opsiones">
+        <item>Selecciona una clasificacion</item>
+        <item>Reptiles</item>
+        <item>Voladores</item>
+        <item>Terrestres</item>
+        <item>Acuaticos</item>
+    </string-array>
+
+    <string-array name="reptiles">
+        <item>Selecciona una clasificacion</item>
+        <item>Reptiles</item>
+        <item>Voladores</item>
+        <item>Terrestres</item>
+        <item>Acuaticos</item>
+    </string-array>
+
+    <string-array name="voladores">
+        <item>Selecciona una clasificacion</item>
+        <item>Reptiles</item>
+        <item>Voladores</item>
+        <item>Terrestres</item>
+        <item>Acuaticos</item>
+    </string-array>
+
+    <string-array name="terrestres">
+        <item>Selecciona una clasificacion</item>
+        <item>Reptiles</item>
+        <item>Voladores</item>
+        <item>Terrestres</item>
+        <item>Acuaticos</item>
+    </string-array>
+
+    <string-array name="acuaticos">
+        <item>Selecciona una clasificacion</item>
+        <item>Reptiles</item>
+        <item>Voladores</item>
+        <item>Terrestres</item>
+        <item>Acuaticos</item>
+    </string-array>
+</resources>
